@@ -1,0 +1,5 @@
+# Pclean
+
+
+
+Small utility to help keep ProjectTemplate /src folder organized. It copies files that are not .r .rmd .txt to /reports, thus reducing clutter in the project directory.
